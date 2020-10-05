@@ -4,14 +4,16 @@
       "company_name":"Alibaba",
       "HQ":"China",
       "GMV":"72b"
-    }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-
+    },
+   {
+      "company_name":"Shopee",
+      "HQ":"Singapore",
+      "GMV":"3.8b"
+    },
+    {
+      "company_name":"Amazon",
+      "HQ":"US",
+      "GMV":"75.5"
+    },
+  ]
 }
