@@ -1,5 +1,5 @@
 {
-  "Ecommerce": [
+  "posts": [
     {
       "company_name":"Alibaba",
       "HQ":"China",
@@ -15,9 +15,13 @@
       "HQ":"US",
       "GMV":"75.5"
     },
-    
-  ]
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
   "profile": {
     "name": "typicode"
   }
 }
+
