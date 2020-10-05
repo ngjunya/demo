@@ -4,9 +4,7 @@
       "company_name":"Alibaba",
       "HQ":"China",
       "GMV":"72b"
-    },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
