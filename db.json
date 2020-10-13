@@ -24,5 +24,11 @@
       "HQ":"Singapore",
       "GMV":"null"
     }
+  ],
+  "credit":[
+     {
+        "Username":"admin",
+        "Password":"123456"
+     }
   ]
 }
