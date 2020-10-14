@@ -2,7 +2,7 @@
 {
 "message":"success",
    
-"ecommerce": {
+"ecommerce": [
    {
       "ID":"1001",
       "company_name":"Alibaba",
@@ -27,12 +27,11 @@
       "HQ":"Singapore",
       "GMV":"null"
     }
-},
-  "credit":{
+],
+  "credit":[
      {
         "Username":"admin",
         "Password":"123456"
      }
-}
-
+     ]
 }
