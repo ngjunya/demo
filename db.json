@@ -30,5 +30,19 @@
         "Username":"admin",
         "Password":"123456"
      }
-     ]
+],
+   "piechart":[
+      {
+         "Java": 2
+      },
+      {
+         "php":3
+      },
+      {
+         "Javascript":5
+      },
+      {
+         "Html":4
+      }
+   ]
 }
