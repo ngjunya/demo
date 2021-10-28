@@ -1,27 +1,30 @@
 {   
-   "position":[
-      {
-       "ID":"1001",
-       "Name":"Ze Sister",
-       "Remarks":"Fucking sexy"
+ "position": [
+   {
+      "ID":"1001",
+      "company_name":"Alibaba",
+      "HQ":"China",
+      "GMV":"72b"
     },
-       {
+    {
        "ID":"1002",
-       "Name":"Sim Zheng Ze",
-       "Remarks":"Fucking driver"
+      "company_name":"Shopee",
+      "HQ":"Singapore",
+      "GMV":"3.8b"
     },
-      {
-       "ID":"1003",
-       "Name":"Tiang Aik Siang",
-       "Remarks":"Tiang god 1.0"
+    {
+      "ID":"1003",
+      "company_name":"Amazon",
+      "HQ":"US",
+      "GMV":"75.5"
     },
-      {
-       "ID":"1004",
-       "Name":"Tiang Hui Shen",
-       "Remarks":"Tiang god 2.0"
-    },
-      ],
-
+   {
+      "ID":"1004",
+      "company_name":"Lazada",
+      "HQ":"Singapore",
+      "GMV":"null"
+    }
+],
 "ecommerce": [
    {
       "ID":"1001",
