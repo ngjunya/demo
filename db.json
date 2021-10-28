@@ -25,32 +25,6 @@
       "GMV":"null"
     }
 ],
-"ecommerce": [
-   {
-      "ID":"1001",
-      "company_name":"Alibaba",
-      "HQ":"China",
-      "GMV":"72b"
-    },
-    {
-       "ID":"1002",
-      "company_name":"Shopee",
-      "HQ":"Singapore",
-      "GMV":"3.8b"
-    },
-    {
-      "ID":"1003",
-      "company_name":"Amazon",
-      "HQ":"US",
-      "GMV":"75.5"
-    },
-   {
-      "ID":"1004",
-      "company_name":"Lazada",
-      "HQ":"Singapore",
-      "GMV":"null"
-    }
-],
   "credit":[
      {
         "Username":"admin",
