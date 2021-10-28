@@ -1,24 +1,24 @@
 {   
    "position":[
       {
-       "ID":"1001"
-       "Name":"Ze Sister"
-       "Remarks":"Fucking sexy"
+       "ID":"1001",
+       "Name":"Ze Sister",
+       "Remarks":"Fucking sexy",
     },
        {
-       "ID":"1002"
-       "Name":"Sim Zheng Ze"
-         "Remarks":"Fucking driver"
+       "ID":"1002",
+       "Name":"Sim Zheng Ze",
+         "Remarks":"Fucking driver",
     },
       {
        "ID":"1003"
-       "Name":"Tiang Aik Siang"
-         "Remarks":"Tiang god 1.0"
+       "Name":"Tiang Aik Siang",
+         "Remarks":"Tiang god 1.0",
     },
       {
        "ID":"1004"
-       "Name":"Tiang Hui Shen"
-         "Remarks":"Tiang god 2.0"
+       "Name":"Tiang Hui Shen",
+         "Remarks":"Tiang god 2.0",
     },
       ],
 "ecommerce": [
