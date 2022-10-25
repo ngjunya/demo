@@ -1,22 +1,22 @@
 {   
  "Company": [
    {
-      "id":"1001",
+      "id": 1,
       "Name":"Apple",
       "Location":"United States"
     },
     {
-      "id":"1002",
+      "id":2,
       "Name":"Shopee",
       "Location":"Singapore"
     },
     {
-      "id":"1003",
+      "id":3,
       "Name":"Microsoft",
       "Location":"United States"
     },
    {
-      "id":"1004",
+      "id":4,
       "Name":"TSMC",
       "Location":"Taiwan"
     }
