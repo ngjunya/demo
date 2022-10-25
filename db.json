@@ -1,48 +1,24 @@
 {   
- "position": [
+ "Company": [
    {
       "ID":"1001",
-      "Name":"Driver Ze",
-      "Age":"22",
-      "Advantage":"Have a sexy sister"
+      "Name":"Apple",
+      "Location":"United States"
     },
     {
       "ID":"1002",
-      "Name":"Tiang Aik Siang",
-      "Age":"22",
-      "Advantage":"Tiang God 1.0"
+      "Name":"Shopee",
+      "Location":"Singapore"
     },
     {
       "ID":"1003",
-      "Name":"Tiang Hui Shen",
-      "Age":"22",
-      "Advantage":"Tiang God 2.0"
+      "Name":"Microsoft",
+      "Location":"United States"
     },
    {
       "ID":"1004",
-      "Name":"Kevin Durant",
-      "Age":"22",
-      "Advantage":"NBA MVP 2021-2022"
+      "Name":"TSMC",
+      "Location":"Taiwan"
     }
-],
-  "credit":[
-     {
-        "Username":"admin",
-        "Password":"123456"
-     }
-],
-   "piechart":[
-      {
-         "Java": 2
-      },
-      {
-         "php":3
-      },
-      {
-         "Javascript":5
-      },
-      {
-         "Html":4
-      }
-   ]
+]
 } 
