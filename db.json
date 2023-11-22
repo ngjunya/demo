@@ -1,24 +1,19 @@
-{   
- "Company": [
-   {
-      "id": 1,
-      "Name":"Apple",
-      "Location":"United States"
-    },
+{
+  "id": "chatcmpl-abc123xyz456",
+  "object": "chat.completion",
+  "created": 1677649421,
+  "model": "text-davinci-003",
+  "usage": {"prompt_tokens": 56, "completion_tokens": 31, "total_tokens": 87},
+  "choices": [
     {
-      "id":2,
-      "Name":"Shopee",
-      "Location":"Singapore"
-    },
-    {
-      "id":3,
-      "Name":"Microsoft",
-      "Location":"United States"
-    },
-   {
-      "id":4,
-      "Name":"TSMC",
-      "Location":"Taiwan"
+      "message": {
+        "role": "system",
+        "content": "You are a helpful assistant.",
+      },
+      "model": "text-davinci-003",
+      "usage": {"prompt_tokens": 56, "completion_tokens": 31, "total_tokens": 87},
+      "finish_reason": "stop",
+      "index": 0,
     }
-]
-} 
+  ]
+}
