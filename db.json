@@ -8,12 +8,12 @@
     {
       "message": {
         "role": "system",
-        "content": "You are a helpful assistant.",
+        "content": "You are a helpful assistant."
       },
       "model": "text-davinci-003",
       "usage": {"prompt_tokens": 56, "completion_tokens": 31, "total_tokens": 87},
       "finish_reason": "stop",
-      "index": 0,
+      "index": 0
     }
   ]
 }
