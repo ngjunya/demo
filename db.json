@@ -1,10 +1,10 @@
 {
   "transactions" : 
   [{
-  "uuid": 100001,
+  "uuid": 123123,
   "amount": 1231237897,
   "date": "2020-10-10",
-  "description": "McDonald",
+  "description": "Today is a good day",
   "status": "SUCCESS",
   "merchantID": "#123"
   },
